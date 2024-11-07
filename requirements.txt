@@ -1,0 +1,7 @@
+pandas
+numpy
+plotly_express
+scikit-learn
+lightgbm
+catboost
+tensorflow
